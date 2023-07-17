@@ -1,1 +1,1 @@
-# blog_page
+# blog_page using bootstrap
